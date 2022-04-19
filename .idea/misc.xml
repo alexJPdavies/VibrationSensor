@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alexJ/AndroidStudioProjects/VibrationSensor/app/src/main/res/layout/activity_main.xml" value="0.18591691995947315" />
+        <entry key="..\:/Users/alexJ/AndroidStudioProjects/VibrationSensor/app/src/main/res/layout/activity_monitoring_screen.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/alexJ/AndroidStudioProjects/VibrationSensor/app/src/main/res/layout/list_item.xml" value="0.28841607565011823" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
